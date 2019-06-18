@@ -17,6 +17,12 @@ public:
 
 private:
     Ui::QtCalc *ui;
+
+private slots:
+  //  void NumButton();
+  //  void MathButton();
+  //  void EqualButton();
+  //  void ChangeSign();
 };
 
 #endif // QTCALC_H
